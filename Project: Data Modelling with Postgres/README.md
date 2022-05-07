@@ -1,10 +1,5 @@
 
 
-`brew services start postgresql`
-
-`psql postgres`
-
-Now we are connected to postgresql
 
 Borrowed Dockerfile postgres and init.sql files from here
 https://github.com/kenhanscombe/project-postgres/
