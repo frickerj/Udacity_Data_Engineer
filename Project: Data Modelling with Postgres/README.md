@@ -4,11 +4,7 @@ This Udacity Data Engineering nanodegree project creates a postgres database `sp
 
 ## Database design
 
-![erd_image.png]
-
-## ETL Process
-
-
+![database image](erd_image.png)
 
 ## Project Repository files
 
