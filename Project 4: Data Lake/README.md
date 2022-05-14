@@ -12,7 +12,7 @@ In this project, you'll apply what you've learned on Spark and data lakes to bui
 
 [Project FAQ](https://sites.google.com/udacity.com/data-engineering-project-4/home)
 
-Example projects [1]()
+Example projects [1](https://github.com/Datapyaddict/udacity-project-data-set-up-a-data-lake-with-spark)
 
 ## Instructions
 
